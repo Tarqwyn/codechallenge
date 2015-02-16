@@ -1,8 +1,6 @@
 Problem Statement
 
-This week's coding challenge is to have strings such that consecutive characters are different. For example, ABABA, but not ABAA. 
-Given a string containing characters A and B only, change it into an acceptable string. To do this, you are allowed to 
-delete the characters in the string.
+Ransome likes strings in which consecutive characters are different. For example, he likes ABABA, while he doesn't like ABAA. Given a string containing characters A and B only, he wants to change it into a string he likes. To do this, he is allowed to delete the characters in the string.
 
 Your task is to find the minimum number of required deletions.
 
